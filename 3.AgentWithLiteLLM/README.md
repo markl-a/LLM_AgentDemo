@@ -1,6 +1,6 @@
 # Example of Agent with LiteLLM
 
-It's just taste of agent with LiteLLM
+It's just a taste of agent with LiteLLM
 
 ## Referfence: 
 
