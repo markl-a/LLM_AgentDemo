@@ -18,4 +18,8 @@ Better RAG: Hybrid Search in Chat with Documents | BM25 and Ensemble - https://y
  
   LangChain + Pinecone + Llama2 🦙基於 RAG 的 LLM，讀取自己的 .pdf 來回答問題 - https://medium.com/@gary.tsai.advantest/%EF%B8%8F-langchain-pinecone-llama2-%E5%9F%BA%E6%96%BC-rag-%E7%9A%84-llm-%E8%AE%80%E5%8F%96%E8%87%AA%E5%B7%B1%E7%9A%84-pdf-%E4%BE%86%E5%9B%9E%E7%AD%94%E5%95%8F%E9%A1%8C-bf62244feb91
 
+<<<<<<< HEAD
 什么是RAG？私有化的wiki百科AI助手 - https://blog.csdn.net/shadowcz007/article/details/135469668
+=======
+  万字长文讲述RAG组合拳：AGI应用走向落地的40%（下篇）--附100M文档资料- https://zhuanlan.zhihu.com/p/682873515
+>>>>>>> 603bdad8e8488c9e9457320d167494328a218e33
