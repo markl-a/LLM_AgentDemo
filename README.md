@@ -5,3 +5,15 @@
 參考資料：
 
 使用Code LLAMA 和 Langchain 進行程式碼解析-https://ithelp.ithome.com.tw/articles/10333544
+
+利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點 - https://edge.aif.tw/express-langchain-chatpdf/
+
+LocalGPT:构建本地问答知识库 - https://zhuanlan.zhihu.com/p/666360711
+
+QAnything：本地知识库问答系统，支持多格式文件和离线使用 - https://cloud.tencent.com/developer/news/1287883
+
+Langchain-ChatGLM：基于本地知识库问答 - https://blog.csdn.net/dzysunshine/article/details/131003488
+
+Better RAG: Hybrid Search in Chat with Documents | BM25 and Ensemble - https://youtu.be/r2m9DbEmeqI?si=cVBMoFfRItIDlDsG
+ 
+  LangChain + Pinecone + Llama2 🦙基於 RAG 的 LLM，讀取自己的 .pdf 來回答問題 - https://medium.com/@gary.tsai.advantest/%EF%B8%8F-langchain-pinecone-llama2-%E5%9F%BA%E6%96%BC-rag-%E7%9A%84-llm-%E8%AE%80%E5%8F%96%E8%87%AA%E5%B7%B1%E7%9A%84-pdf-%E4%BE%86%E5%9B%9E%E7%AD%94%E5%95%8F%E9%A1%8C-bf62244feb91
