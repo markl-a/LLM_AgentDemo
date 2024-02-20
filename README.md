@@ -2,6 +2,8 @@
 
 這個DEMO 主要是使用Langchain, rag 檢索資料並進行問答
 
+之後希望能用在公司個人wiki, 個人或公司行號的onenote上進行檢索並使用本地的大模型進行問答
+
 參考資料：
 
 使用Code LLAMA 和 Langchain 進行程式碼解析-https://ithelp.ithome.com.tw/articles/10333544
