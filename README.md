@@ -23,3 +23,13 @@ Better RAG: Hybrid Search in Chat with Documents | BM25 and Ensemble - https://y
 
 万字长文讲述RAG组合拳：AGI应用走向落地的40%（下篇）--附100M文档资料- https://zhuanlan.zhihu.com/p/682873515
 
+AgentGPT - https://github.com/reworkd/AgentGPT
+
+Grafana Agent - https://github.com/grafana/agent
+
+awesome-ai-agents - https://github.com/e2b-dev/awesome-ai-agents
+
+Awesome-GPT-Agents - https://github.com/fr0gger/Awesome-GPT-Agents
+
+awesome-language-agents - https://github.com/ysymyth/awesome-language-agents 
+
