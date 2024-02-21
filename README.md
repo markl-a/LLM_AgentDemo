@@ -37,3 +37,13 @@ Awesome-GPT-Agents - https://github.com/fr0gger/Awesome-GPT-Agents
 
 awesome-language-agents - https://github.com/ysymyth/awesome-language-agents 
 
+線上版demo參考- https://github.com/nilaybhalgat/Harry-Potter-book-QA-using-LLM-Langchain-VectorDB-RAG/tree/main
+
+本地板demo參考- 
+
+1.https://github.com/paryska99/RAG_for_QA_local
+
+2.https://github.com/Ayyodeji/Langchain-LLM-PDF-QA
+
+
+
