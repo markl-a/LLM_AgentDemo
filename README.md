@@ -47,4 +47,8 @@ awesome-language-agents - https://github.com/ysymyth/awesome-language-agents
 
 3.https://github.com/ollama/ollama
 
+4.https://github.com/Asad-Ismail/RAG-Code-QA
+
+5.https://github.com/jwoongkim11/QA-RAG
+
 
