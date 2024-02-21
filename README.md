@@ -45,5 +45,6 @@ awesome-language-agents - https://github.com/ysymyth/awesome-language-agents
 
 2.https://github.com/Ayyodeji/Langchain-LLM-PDF-QA
 
+3.https://github.com/ollama/ollama
 
 
