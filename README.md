@@ -4,6 +4,8 @@
 
 之後希望能用在公司個人wiki, 個人或公司行號的onenote上進行檢索並使用本地的大模型進行問答
 
+做完上面功能後有時間再結合類似lepton之類的套件檢索網路內容
+
 參考資料：
 
 使用Code LLAMA 和 Langchain 進行程式碼解析-https://ithelp.ithome.com.tw/articles/10333544
@@ -34,4 +36,19 @@ awesome-ai-agents - https://github.com/e2b-dev/awesome-ai-agents
 Awesome-GPT-Agents - https://github.com/fr0gger/Awesome-GPT-Agents
 
 awesome-language-agents - https://github.com/ysymyth/awesome-language-agents 
+
+線上版demo參考- https://github.com/nilaybhalgat/Harry-Potter-book-QA-using-LLM-Langchain-VectorDB-RAG/tree/main
+
+本地板demo參考- 
+
+1.https://github.com/paryska99/RAG_for_QA_local
+
+2.https://github.com/Ayyodeji/Langchain-LLM-PDF-QA
+
+3.https://github.com/ollama/ollama
+
+4.https://github.com/Asad-Ismail/RAG-Code-QA
+
+5.https://github.com/jwoongkim11/QA-RAG
+
 
