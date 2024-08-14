@@ -12,7 +12,9 @@
 
 7. microsoft/UFO,OpenBMB/ProAgent 或 yuruotong1/autoMate 的簡化版本
 
-8. 實際應用到生活中的例子  
+8. 插件的簡單實作
 
+9. open devin的拙劣模仿版本
 
+10.實際應用到生活中的例子 
 
