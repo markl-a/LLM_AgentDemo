@@ -1,14 +1,18 @@
 # Agent 框架, RAG使用
 
-1. langchain,langgraph, 以及相關生態系的幾個應用
+1. langchain 以及相關生態系的幾個應用
 
-2. llamaindex以及相關生態系的幾個應用
+2. langgraph 以及相關生態系的幾個應用
 
-3. crew AI 的幾個應用
-
-4. AutoGen 的幾個相關應用
 
 -----之後會新增的-----
+
+3. llamaindex以及相關生態系的幾個應用
+
+4. crew AI 的幾個應用
+
+5. AutoGen 的幾個相關應用
+
 
 6. zaiper ,Dify 聯合llm 的應用
 
