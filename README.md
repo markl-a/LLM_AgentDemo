@@ -1,6 +1,6 @@
 # Agent 框架, RAG使用
 
-1. langchain,langgraph, 以及相關生態系的幾個應用（）
+1. langchain,langgraph, 以及相關生態系的幾個應用
 
 2. llamaindex以及相關生態系的幾個應用
 
