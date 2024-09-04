@@ -1,5 +1,6 @@
 # langchain 練習過程
 
+0. 簡單的RAG_範例.ipynb
 1. RAG問答
 2. 向量儲存與檢索器
 3. 使用_LCEL_建立簡單的_LLM_應用
