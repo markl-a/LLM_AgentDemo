@@ -11,5 +11,6 @@
 
 5. RAG相關
 
-6. cusor,cline 以及open hands等相關項目中 agents以及程式碼的 內部運作流程
+6. cline 以及open hands等相關項目中 agents以及程式碼的 內部運作流程
+ 
 
