@@ -115,7 +115,7 @@ graph TD
         C --> D[PlanningAgent]
         C --> E[GroundingAgent]
         
-        B --> F[執行任務 run()]
+        B --> F[執行任務 run]
     end
     
     subgraph PlanningAgent流程
