@@ -3,7 +3,7 @@ UFO (UI-Focused Agent) 的整體流程圖。基於代碼分析，使用 Mermaid 
 ```mermaid
 graph TD
     A[使用者啟動 UFO] --> B[入口點 __main__.py]
-    B --> C[ufo.py main()]
+    B --> C[ufo.py main]
     
     subgraph 初始化階段
         C --> D[解析命令列參數]
